@@ -104,7 +104,7 @@ b, strong {
 }
 
 .animated {
-  position: -webkit-sticky;
+  position: relative;
 }
 
 .animated-info {
@@ -112,7 +112,7 @@ b, strong {
   vertical-align: top;
   margin-top: 5px;
   min-width: 260px;
-  position: -webkit-sticky;
+  position: relative;
 }
 
 .animated-item {
@@ -125,7 +125,7 @@ b, strong {
   display: block;
   opacity: 0;
   overflow: hidden;
-  position: -webkit-sticky;
+  position: absolute;
   top: 0;
   right: 0;
   left: 0;
