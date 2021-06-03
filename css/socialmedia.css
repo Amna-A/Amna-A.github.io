@@ -27,7 +27,7 @@ ul.socialIcons {
 }
 
 .socialIcons li i {/*lets not change this */
-  margin-right: 0.5em;
+  margin-right: 1.2em;
 }
 
 .socialIcons li:hover a {/*lets not change this */
