@@ -167,6 +167,7 @@ b, strong {
 }
 .navbar {
   position: fixed;
+  overflow: hidden;
   top: 0;
   right: 0;
   left: 0;
