@@ -21,7 +21,7 @@
 
 /*=== Animations start here  ===*/
 /*=== FADE IN  ===*/
-/* @-webkit-keyframes fadeIn {
+@-webkit-keyframes fadeIn {
     from {
         opacity: 0;
     }
@@ -46,8 +46,8 @@
 }
 
 /*=== Optional Delays, change values here  ===*/
-/* .one {
+.one {
     -webkit-animation-delay: 0.4s;
     -moz-animation-delay: 0.4s;
     animation-delay: 0.4s;
-} */
+}
