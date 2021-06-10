@@ -1,0 +1,17 @@
+.well{
+    border-color: #3b5998;
+    background-color: #ffffff; 
+    border-style: solid;
+    border-color:purple;
+    border-width: 5px;
+    padding:10px;
+    /* background: linear-gradient(0deg, rgb(241, 197, 232) 0%, rgb(160, 32, 185) 100%); */
+    border-radius: 0.3cm;
+}
+.volunteer {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.2;
+    color: #5b5b5b;
+    text-align: justify;
+  }
