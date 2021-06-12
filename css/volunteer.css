@@ -21,3 +21,9 @@
     margin-bottom: 15px;
     margin-top: 15px;
 }
+.bullets {
+}
+
+.bullets li {
+ list-style-type: circle;
+}
