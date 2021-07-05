@@ -2,4 +2,4 @@
 My Personal Portfolio.
 
 
-
+Languages I used (HTML / CSS / JS / Bootsrtap)
