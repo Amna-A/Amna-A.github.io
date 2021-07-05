@@ -2,4 +2,4 @@
 My Personal Portfolio.
 
 
-The original creator of this template is [Tooplate](https://www.tooplate.com/)
+Languages I used (HTML / CSS / JS / Bootsrtap)
